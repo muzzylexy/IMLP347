@@ -7,4 +7,5 @@
 [HW4](https://github.com/muzzylexy/IMLP347/blob/master/Unit04) \
 [HW5](https://github.com/muzzylexy/IMLP347/blob/master/Unit05) \
 [HW6](https://github.com/muzzylexy/IMLP347/blob/master/Unit06) \
-[HW7](https://github.com/muzzylexy/IMLP347/blob/master/Unit07)
+[HW7](https://github.com/muzzylexy/IMLP347/blob/master/Unit07) \
+[HW8](https://github.com/muzzylexy/IMLP347/blob/master/Unit08)
